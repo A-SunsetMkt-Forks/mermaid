@@ -115,7 +115,7 @@
     "js-base64": "^3.7.7",
     "jsdom": "^24.0.0",
     "json-schema-to-typescript": "^13.1.2",
-    "micromatch": "^4.0.5",
+    "micromatch": "^4.0.8",
     "path-browserify": "^1.0.1",
     "prettier": "^3.2.5",
     "remark": "^15.0.1",
